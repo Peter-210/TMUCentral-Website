@@ -1,0 +1,6 @@
+Conenct to application
+
+user: mohitverma
+pass: a4ftvh5cDRPEnk7g
+
+Connection string: mongodb+srv://mohitverma:a4ftvh5cDRPEnk7g@cps630.0t7rxxu.mongodb.net/?retryWrites=true&w=majority&appName=CPS630
